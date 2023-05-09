@@ -78,8 +78,7 @@ const styles = StyleSheet.create({
   centro: {
     flex: 1,
     justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: "#00aff5"
+    alignItems: 'center'
   },
   dropdown: {
     width: 300,
